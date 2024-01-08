@@ -68,6 +68,6 @@ public class NumberGuessingGame {
         System.out.println("Try and guess the number randomly generated between 1 and 100");
         System.out.println("The game consists of three rounds");
         System.out.println("You will get 5 tries for guessing in one round");
-        NumberGuessingGame();
+        GuessingGame();
     }
 }
